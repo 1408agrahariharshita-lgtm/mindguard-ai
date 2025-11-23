@@ -1,0 +1,1 @@
+print("MindGuard AI starting...")
